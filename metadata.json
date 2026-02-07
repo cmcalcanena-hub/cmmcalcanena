@@ -1,0 +1,8 @@
+
+{
+  "name": "CMMC Alcanena/Minde",
+  "description": "Plataforma oficial de gestão de atletas e acompanhamento de evolução CMMC Alcanena/Minde.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
